@@ -505,3 +505,5 @@ const var IDADE_MINIMA; // errado
 - Possuem assimilação negativa e positiva por padrão, dispensando uso de signed/unsigned em seus tipos
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/416ef042-3927-4ffa-a199-8c0da432d2c2/ba35a045-9668-44b2-8f31-7a0be1570c29/image.png)
+
+teste
